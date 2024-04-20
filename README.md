@@ -50,3 +50,6 @@ To run the project locally on your machine, follow these steps:
 - Run the command npm install to install the dependencies.
 - Run the command npm start to start the development server.
 - Access the application in your browser via the address http://localhost:3000.
+
+## Contact
+For more information about me and my other projects, check out my [Portfolio](https://github.com/MatheusViuge/PortifolioMatheusViuge).
